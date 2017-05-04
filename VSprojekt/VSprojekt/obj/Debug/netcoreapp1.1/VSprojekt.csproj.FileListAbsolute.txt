@@ -1,0 +1,9 @@
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.deps.json
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.runtimeconfig.json
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.runtimeconfig.dev.json
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.dll
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.pdb
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.AssemblyInfo.cs
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.dll
+C:\Users\Hemulen\OneDrive\Documents\_NEWTON\thehackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.pdb

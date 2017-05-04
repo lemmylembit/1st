@@ -1,0 +1,21 @@
+
+	THEHACKERS KODSTANDARD
+
+
+ #1	Måsvingarna { } på ny rad.
+
+ #2	Space mellan olika satser. Tex. for (int i = 1, i < 8, i++)
+
+ #3	Beskrivande variabel- och metodnamn på engelska
+
+ #4	Kommentarer på svenska
+
+ #5	Kommentarer på fler än två rader:	
+
+	/* 
+	* 
+	* 
+	* 
+	*/
+
+ #6	Skriva seprata klasses i nya dokument om de innehåller mycket kod.
