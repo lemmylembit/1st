@@ -1,0 +1,14 @@
+﻿@model IndexViewModel
+@foreach (User user in Model.Users)
+{
+    <div style="font-size:30px">
+        @user.GivenName  @user.SurName  är @user.Age år gammal
+    </div>
+}
+
+@foreach (string country in Model.Countries)
+{
+    <div style="font-size:16px; background-color:yellow">
+        @country
+    </div>
+}

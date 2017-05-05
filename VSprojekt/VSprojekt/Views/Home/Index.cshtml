@@ -1,14 +1,40 @@
-﻿@model IndexViewModel
-@foreach (User user in Model.Users)
-{
-    <div style="font-size:30px">
-        @user.GivenName  @user.SurName  är @user.Age år gammal
-    </div>
-}
+﻿<div class="col-sm-10 center-block" style="float:none">
 
-@foreach (string country in Model.Countries)
-{
-    <div style="font-size:16px; background-color:yellow">
-        @country
+    <div class="row margin-top">
+
+        <div class="col-sm-5 col-sm-push-7">
+
+            <div class="col-sm-12 navbar-default round-border" style="height:200px">
+                Inloggning
+            </div>
+                        
+            <div class="col-sm-12 navbar-default margin-top round-border" style="height:200px">
+
+                <p class="header">Här hittar du vår app!</p><br /><br />
+                <div class="col-sm-6 navbar-default">
+                    <img src="~/images/googleplay.png" style="max-width:100%" />
+                </div>
+                <div class="col-sm-6 navbar-default">
+                    <img src="~/images/applestore.png" style="max-width:100%" />
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="col-sm-7 col-sm-pull-5 pull-left">
+
+            <p class="headline">Välkommen!</p><br />
+            <p class="headline">Så här fungerar läroportalen...</p>
+
+            <video controls style="width:100%">
+                <source src="movie.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+        
     </div>
-}
+</div>
