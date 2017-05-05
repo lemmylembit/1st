@@ -18,16 +18,25 @@
     </environment>
     @Html.Raw(JavaScriptSnippet.FullScript)
 </head>
-<body style="background-color:darkseagreen">
-    <nav class="navbar navbar-default navbar-fixed-top">
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top navbarshadow">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"></button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Amazing Läroportal</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                </button>
+                <img src="~/images/logo.png" id="logo" />
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand"><img class="fullheight img-responsive" src="~/images/logotext.svg"/></a>
             </div>
+            
+
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav pull-right" >
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+
+                    <li class="active"><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
                 </ul>
@@ -39,7 +48,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2017 - VSprojekt</p>
+            <p class="footertext">&copy; 2017 - Amazing Studentportal</p>
         </footer>
     </div>
 

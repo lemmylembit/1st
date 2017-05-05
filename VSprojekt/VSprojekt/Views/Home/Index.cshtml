@@ -1,40 +1,79 @@
-﻿<div class="col-sm-10 center-block" style="float:none">
+﻿
+
+
+<div class="col-sm-10 col-xs-12 center-block maincontainer">
 
     <div class="row margin-top">
 
-        <div class="col-sm-5 col-sm-push-7">
+        <div class="col-sm-4 col-sm-push-8">
 
-            <div class="col-sm-12 navbar-default round-border" style="height:200px">
-                Inloggning
-            </div>
-                        
-            <div class="col-sm-12 navbar-default margin-top round-border" style="height:200px">
+            <div class="container col-sm-12 bottommargin">
+                <div id="bootstrapLogin" class="sidebarshadow">
+                    <div class="navbar-default round-border" >
+                        <div class="mypanel panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Logga in på portalen</h3>
+                            </div>
+                            <div class="panel-body" >
+                                <form accept-charset="UTF-8" role="form">
+                                    <fieldset>
+                                        <div class="form-group">
+                                            <input class="form-control" placeholder="E-mail" name="email" type="text">
+                                        </div>
+                                        <div class="form-group">
+                                            <input class="form-control" placeholder="Lösenord" name="password" type="password" value="">
+                                        </div>
+                                        <br />
+                                        <div class="checkbox">
+                                            <label>
+                                                <input name="remember" type="checkbox" value="Remember Me"> Kom ihåg mig
+                                            </label>
+                                        </div>
+                                        <input class="btn btn-lg btn-success btn-block" type="submit" value="Logga in">
+                                    </fieldset>
+                                </form>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+          
 
-                <p class="header">Här hittar du vår app!</p><br /><br />
-                <div class="col-sm-6 navbar-default">
-                    <img src="~/images/googleplay.png" style="max-width:100%" />
+            <div class="container col-sm-12 ">
+                <div id="bootstrapLogin" class="sidebarshadow">
+                    <div class="navbar-default round-border">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Ladda ner appen!</h3>
+                            </div>
+                            <div class="panel-body">
+                                <h2 class="panel-title">Vår app innehåller massor med spännande funktioner!</h2><br />
+                                <img src="~/images/googleplay.jpg" class="img-responsive"/>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-sm-6 navbar-default">
-                    <img src="~/images/applestore.png" style="max-width:100%" />
-                </div>
+
+
+
 
             </div>
 
+                </div>
+
+
+                <div class="col-sm-8 col-sm-pull-4 pull-left">
+
+                    <h1 class="headline">Välkommen!</h1><br />
+                    <h2 class="underline">Så här fungerar läroportalen...</h2>
+
+                    <video controls style="width:100%">
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+
+
+            </div>
         </div>
-
-
-        <div class="col-sm-7 col-sm-pull-5 pull-left">
-
-            <p class="headline">Välkommen!</p><br />
-            <p class="headline">Så här fungerar läroportalen...</p>
-
-            <video controls style="width:100%">
-                <source src="movie.mp4" type="video/mp4">
-                <source src="movie.ogg" type="video/ogg">
-                Your browser does not support the video tag.
-            </video>
-        </div>
-
-        
-    </div>
-</div>

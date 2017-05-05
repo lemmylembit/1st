@@ -1,7 +1,30 @@
-﻿body {
-    padding-top: 50px;
+﻿li {
+    float: right;
+}
+
+#logo {
+    float: left;
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+.fullheight {
+    height:100%;
+    
+}
+
+#titeln {
+    font-size: 25px;
+}
+
+body {
     padding-bottom: 20px;
     background-color: darkseagreen;
+}
+
+.mypanel {
+    margin-bottom: 0px;
 }
 
 /* Wrapping element */
@@ -15,7 +38,7 @@
 input,
 select,
 textarea {
-    max-width: 280px;
+    max-width: 100%;
 }
 
 /* Carousel */
@@ -38,15 +61,52 @@ textarea {
 }
 
 .headline {
-    color:white;
-    font-size:30px;
+    padding-top: 0%;
+    color: white;
+    font-size: 2.3em;
+}
+
+.underline {
+    padding-top: 0%;
+    color: white;
+    font-size: 1.8em;
 }
 
 .margin-top {
-    margin-top:10%;
+    margin-top: 15%;
 }
 
 .round-border {
     border-radius: 5px 5px 5px 5px;
 }
 
+#appen {
+    font-size: 2.5vw 2.5vh;
+}
+
+#login {
+    font-size: 2vw 2vh;
+}
+
+.boostrapLogin {
+    padding-left:71px;
+}
+
+.navbarshadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.sidebarshadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+}
+.bottommargin {
+    margin-bottom: 8%;
+}
+
+.footertext {
+    color:white;
+}
+
+.maincontainer {
+    float:none;
+}
