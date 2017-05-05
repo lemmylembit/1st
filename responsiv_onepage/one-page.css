@@ -1,21 +1,21 @@
-body {
-    padding-top: 50px;
-    padding-bottom: 20px;
-    background-color: darkseagreen;
-}
 li {
-    float:right;
+	float:right;
 }
 
 #logo {
-    float:left;
-    height:50px;
-    width: 50px;
-    padding:5px;
+	float:left;
+	height:50px;
+	width: 50px;
+	padding:5px;
 }
 
 #titeln {
-    font-size: 25px;
+	font-size: 25px;
+}
+body {
+    
+    padding-bottom: 20px;
+    background-color: darkseagreen;
 }
 
 /* Wrapping element */
@@ -52,8 +52,9 @@ textarea {
 }
 
 .headline {
+    padding-top: 10%;
     color:white;
-    font-size:30px;
+    font-size:5vw;
 }
 
 .margin-top {
@@ -62,5 +63,14 @@ textarea {
 
 .round-border {
     border-radius: 5px 5px 5px 5px;
+}
+
+#appen {
+    font-size: 2.5vw 2.5vh;
+}
+
+#login {
+    font-size: 2vw 2vh;
+
 }
 
