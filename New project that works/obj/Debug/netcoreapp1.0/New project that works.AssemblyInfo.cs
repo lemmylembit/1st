@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("VSprojekt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("New project that works")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("VSprojekt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("VSprojekt")]
+[assembly: System.Reflection.AssemblyProductAttribute("New project that works")]
+[assembly: System.Reflection.AssemblyTitleAttribute("New project that works")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
