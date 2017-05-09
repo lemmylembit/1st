@@ -1,4 +1,4 @@
-﻿namespace VSprojekt.Infrastructure.POCOS
+﻿namespace AmazingPortal.Infrastructure.POCOS
 {
     public class User
     {

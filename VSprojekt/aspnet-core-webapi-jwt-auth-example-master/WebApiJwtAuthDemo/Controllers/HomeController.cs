@@ -2,10 +2,10 @@
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.Extensions.Options;
 using Npgsql;
-using VSprojekt.Infrastructure.Options;
-using VSprojekt.Models;
+using AmazingPortal.Infrastructure.Options;
+using AmazingPortal.Models;
 
-namespace VSprojekt.Controllers
+namespace AmazingPortal.Controllers
 {
     public class HomeController : BaseController
     {

@@ -16,3 +16,14 @@ C:\Users\Mikael Elofsson\Documents\GitHub\the_hackers\VSprojekt\VSprojekt\obj\De
 C:\Users\Mikael Elofsson\Documents\GitHub\the_hackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.AssemblyInfo.cs
 C:\Users\Mikael Elofsson\Documents\GitHub\the_hackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.dll
 C:\Users\Mikael Elofsson\Documents\GitHub\the_hackers\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.pdb
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.deps.json
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.runtimeconfig.json
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.runtimeconfig.dev.json
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.dll
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\bin\Debug\netcoreapp1.1\VSprojekt.pdb
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.AssemblyInfo.cs
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.dll
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.pdb
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.Properties.Resources.resources
+C:\Users\Hemulen\Documents\GitHub\the_hackers_git\VSprojekt\VSprojekt\obj\Debug\netcoreapp1.1\VSprojekt.csproj.GenerateResource.Cache

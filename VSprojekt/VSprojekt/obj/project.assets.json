@@ -5036,7 +5036,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore/1.1.1": {
-      "sha512": "/zBitD5VptNZax/m6wJvmadpV6OYc475xn822aeEm5uI+GDIEA9NUWHL1XmrwnEDAnyFSj5ffTaJ1JmSoUiq9g==",
+      "sha512": "wkPi/5FriMthUoCBjqO/hCDEGdRrJ5aTGKa9jGHK7NYw1uSxb2FXksBuqqMfFve3sd2j4+9BpYtdvAJ6fzjeXg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore/1.1.1",
       "files": [
@@ -5049,7 +5049,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Design/1.1.1": {
-      "sha512": "iAozkmQ7mBsZdYPhTWtBBpu05V9PsdpNyQ/fSfnZ1bBisthPAIUnJGGTrJNDQTjOGxJ+jO3qWJRBzAJW9cAHrg==",
+      "sha512": "xFeAAi9LUckgeinjji7WPMwPUbZNb6mTVRhWAlo+RVsjpnEjeAQk3Gw4OP3Ln/yncji64J7e74ue+yIArQYt+Q==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.design/1.1.1",
       "files": [
@@ -5062,7 +5062,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/1.1.1": {
-      "sha512": "HKJk3PLg0BsDAlo6ASTfHRfSmVhlrmYv9kHmQcsRPBD3nV4Y+6/xIJ0MVLSVnO3CbCDiyIq29rBTxOv5CoATnQ==",
+      "sha512": "wIeIC02b3uFQ0Mgd5yDcpzbGQs383p2BAkpMjNz2xffo9QAFXO1CDavuolRk5I2Rv/iBy9igB91BZoY0tpcMzA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational/1.1.1",
       "files": [
@@ -5075,7 +5075,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.1": {
-      "sha512": "UfsQrfNSP7V0o/b/kkNxhuuPKosk6m4N8/u+5bxW7zuQkRIpgsB6y/73KQqrYHrjOt2XK0XyPcUm6ZsjKNoV3w==",
+      "sha512": "WZKmQwuDUTLtjhxT/6c3hiMJTwi8OBl9rsPljY/ZhcMFAsF8sLj4uVrpkuNmrg5DEK2dEtnQn6p+Y9miQiIeZw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.1",
       "files": [
@@ -5907,7 +5907,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "8w+WB04iLWaxOxtNY2u1+p+XEKnAuwnAe/mmqovry1kpS66wgOtRkFe/BrCQjgqfSfcEt88qi2KilKD52Y5oRw==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -6712,7 +6712,7 @@
       ]
     },
     "System.Data.Common/4.3.0": {
-      "sha512": "zoTyt+W38iNtFwdJ7PWVku8Zvtn26slZhoxTdqDeQVtVaEy1jATK2hn5htIPzoAzC0YPXSNu8MXEkPJgNBoizw==",
+      "sha512": "lm6E3T5u7BOuEH0u18JpbJHxBfOJPuCyl4Kg1RH10ktYLp5uEEE1xKrHW56/We4SnZpGAuCc9N0MJpSDhTHZGQ==",
       "type": "package",
       "path": "system.data.common/4.3.0",
       "files": [
@@ -7443,7 +7443,7 @@
       ]
     },
     "System.Interactive.Async/3.0.0": {
-      "sha512": "AUgsA5lhj6ZdZ5ICsY+k1GWvL1ELzdURrBas5jooBhw/KAB4AtkJhWMKulQwhznQoLN5KGcs5r4iMF9N7FqWQA==",
+      "sha512": "iyrgkZz9Dzm0fiPouQszFC3SO/46k6AYd/jG9bu+/o0AoDMaRXtlo3TIuWVNtOuJFd1noL963QouroJ0T3rImw==",
       "type": "package",
       "path": "system.interactive.async/3.0.0",
       "files": [
@@ -10963,15 +10963,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikael Elofsson\\.nuget\\packages\\": {}
+    "C:\\Users\\Hemulen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael Elofsson\\Documents\\GitHub\\the_hackers\\VSprojekt\\VSprojekt\\VSprojekt.csproj",
+      "projectUniqueName": "C:\\Users\\Hemulen\\Documents\\GitHub\\the_hackers_git\\VSprojekt\\VSprojekt\\VSprojekt.csproj",
       "projectName": "VSprojekt",
-      "projectPath": "C:\\Users\\Mikael Elofsson\\Documents\\GitHub\\the_hackers\\VSprojekt\\VSprojekt\\VSprojekt.csproj",
-      "outputPath": "C:\\Users\\Mikael Elofsson\\Documents\\GitHub\\the_hackers\\VSprojekt\\VSprojekt\\obj\\",
+      "projectPath": "C:\\Users\\Hemulen\\Documents\\GitHub\\the_hackers_git\\VSprojekt\\VSprojekt\\VSprojekt.csproj",
+      "outputPath": "C:\\Users\\Hemulen\\Documents\\GitHub\\the_hackers_git\\VSprojekt\\VSprojekt\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
