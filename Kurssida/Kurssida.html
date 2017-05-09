@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="Kurssida.css">
+	
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+      	<meta charset="UTF-8">
+	<title>Kurssida</title>
+</head>
+<body ngController>
+<div>
+<div class="navbar nav-static-top">
+
+<div class="container">
+
+
+		<a class="navbar-brand" href="#" id="titeln">Amazing Läroplan</a>
+
+		<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+
+		</button>
+
+		<div class="collapse navbar-collapse">
+
+	<ul class="nav navbar-nav navbar-right">
+		
+		<li class="active"><a href="#">Home</a></li>
+		<li><a href="#">About</a></li>
+		<li><a href="#">Contact</a></li>
+
+	</ul>	
+</div>
+</div>
+</div>
+
+
+<div class="has-header">
+	<h1>Kurser</h1> <br>
+
+	<div class="tab">
+		<button class="tablinks" onclick="OpenCourse(event,'Started')">Pågående</button>
+		<button class="tablinks" onclick="OpenCourse(event,'Ended')">Avslutade</button>
+	</div>
+
+	<div id="Started" class="tabcontent">
+		<h3>Started</h3>
+		<p>kurs 1</p> <br>
+		<p>kurs 2</p> <br>
+		<p>kurs 3</p>
+	</div>
+
+
+	<div id="Ended" class="tabcontent">
+		<h3>Ended</h3>
+		<p>Kurs 1</p> <br>
+		<p>kurs 2</p> <br>
+		<p>kurs 3</p>
+	</div>
+</div>
+</body>
+</html>
